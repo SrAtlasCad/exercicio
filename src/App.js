@@ -1,4 +1,4 @@
-//import './App.css';
+import './App.css';
 //import PrimeiroComponente from './components/PrimeiroComponente';
 //import SegundoComponente from './components/SegundoComponente';
 //import TerceiroComponente from './components/TerceiroComponente';
@@ -15,15 +15,15 @@ function App() {
       //<Estado/>
     //</div>
 
-    //<div>
+    //<div className="App">
      //<PrimeiroComponente/>
      //<SegundoComponente/>
      //</div>
      
-    //<div>
+    //<div className="App">
      //<TerceiroComponente/>
     //</div>
-    <div>
+    <div className="App">
       <Cadastro/>
     </div>
   );

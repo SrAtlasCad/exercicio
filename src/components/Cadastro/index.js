@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import "./styles.css"
 const Cadastro = () => {
         const[nome, setNome]= useState("")
         const[idade, setIdade]= useState("")
