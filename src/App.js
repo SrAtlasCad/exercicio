@@ -4,7 +4,8 @@ import './App.css';
 //import TerceiroComponente from './components/TerceiroComponente';
 //import Estado from "./components/Estado";
 //import Propriedades from "./components/Propriedades";
-import Cadastro from "./components/Cadastro";
+//import Cadastro from "./components/Cadastro";
+import Listas from "./components/Listas";
 function App() {
   return (
     //<div className="App">
@@ -23,8 +24,11 @@ function App() {
     //<div className="App">
      //<TerceiroComponente/>
     //</div>
+    //<div className="App">
+      //<Cadastro/>
+    //</div>
     <div className="App">
-      <Cadastro/>
+      <Listas/>
     </div>
   );
 }
