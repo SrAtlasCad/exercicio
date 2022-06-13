@@ -3,7 +3,7 @@ const Listas = () => {
     //const [nomes, setNomes] = useState (["Lucas", "Cleiton", "Thales", "Julia", "Gomes", "Miguel", "Thomas", "Marcos", "Mario"])
     //const [nomesnovos, setNomesNovos] = useState ("")
     //const adicionarnome = ()=> {
-        //setFrutas([...nomes, nomesnovos])
+        //setNomes([...nomes, nomesnovos])
     //}
 
     const [frutas, setFrutas] = useState (["Laranja", "Banana", "Mamão", "Uva", "Siriguela", "Melão", "Abacaxi", " Açaí", "Amora"])
